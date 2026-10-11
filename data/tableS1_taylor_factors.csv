@@ -1,0 +1,5 @@
+texture,method,M,literature_M
+Random (fcc),Taylor (equal strain),3.06,3.067
+Random (fcc),Kroner (self-consistent),2.75,2.75
+Brass {110}<112>,Kroner,2.39,2.4
+Goss {011}<100>,Kroner,3.40,3.4

@@ -1,0 +1,15 @@
+symbol,meaning,value,unit,source
+G,shear modulus (Cu),48,GPa,standard
+b,Burgers vector (Cu),0.255,nm,standard
+nu,Poisson ratio (Cu),0.34,,standard
+M,Taylor factor (random fcc),2.75,,Kroner self-consistent
+tau_c_poly,polycrystal-averaged transmission stress (Cu),0.24,GPa,DFT/NEB 0 K Sigma3/Sigma5/Sigma7 average
+k_HP_computed,computed Hall-Petch coefficient (Cu),0.146,MPa*m^0.5,Eq. (17)
+k_HP_experiment,compiled experimental window (Cu),0.11-0.15,MPa*m^0.5,Refs [31,32]
+Omega,atomic volume (Cu),1.18e-29,m^3,standard
+delta,effective boundary thickness,0.5,nm,~2b
+D_gb_eq,equilibrium boundary tracer diffusivity (Cu),1.11e-22,m^2/s,Ref [33]
+D_gb_eff,operative non-equilibrium diffusivity,8e-17,m^2/s,inverted via Eq. (22) for d_c=180 nm
+Q_gb,boundary diffusion activation energy (Cu),0.70,eV,
+A_Coble,Coble geometric constant,150,,spherical grains Ref [8]
+eps_dot_ref,reference strain rate,1e-3,s^-1,quasi-static
